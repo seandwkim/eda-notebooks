@@ -1,6 +1,6 @@
 # EDA Notebooks
 
-Exploratory data analysis notebooks on financial datasets (e.g., S&P 500, fundamentals) and behavioral case studies.
+Exploratory data analysis notebooks on financial datasets (e.g., S&P 500, fundamentals).
 
 ## Contents
 - `sp500_prep.py` — data ingestion and preprocessing  
