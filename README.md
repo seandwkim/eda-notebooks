@@ -1,11 +1,12 @@
 # EDA Notebooks
 
-Exploratory data analysis notebooks covering topics in finance, markets, and behavioral decision-making.  
+A collection of exploratory data analysis notebooks.  
+Includes work on financial datasets (e.g., S&P 500, fundamentals) and behavioral case studies.
 
 ## Contents
-- **SP500 Preprocessing** – pulling, cleaning, and saving S&P 500 financial datasets  
-- **SP500 Analytics** – exploratory analysis of sectors, returns, and state-level trends  
-- **Psychology & ML** – behavioral finance case studies with clustering and regression  
+- `sp500_prep.py` — data ingestion and preprocessing  
+- `sp500_analytics.py` — exploratory analytics and visualizations  
+- `behavioral_ml.py` — behavioral case studies with machine learning  
 
 ## Notes
 - Notebooks are self-contained and use standard Python data science libraries.  
